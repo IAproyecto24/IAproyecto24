@@ -150,6 +150,8 @@ Las tecnologías son medios para resolver problemas. Estas son algunas de las qu
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
 </p>
 
+También he trabajado con **PyQt5, SQLAlchemy, pyodbc, Looker Studio y automatización basada en Excel**, según las necesidades de cada solución.
+
 **En exploración para futuros proyectos:** React, Angular, Vue, Svelte, ASP.NET Core, NestJS, Django, PostgreSQL y alternativas web, móviles y multiplataforma. Las evalúo según su pertinencia; **no las presento como experiencia de producción ya adquirida**.
 
 ## 📚 Proyectos académicos que puedes explorar
