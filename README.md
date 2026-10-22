@@ -1,12 +1,12 @@
 <div align="center">
 
-<h1>👋 ¡Hola! Soy Sebastián Urquijo Buitrago</h1>
+<h1>Sebastián Urquijo Buitrago</h1>
 
 <p><strong>Ingeniero Industrial · Ingeniería de Datos · Desarrollo de Software · IA aplicada</strong></p>
 
 <p>🎓 Estudiante de Maestría en Inteligencia Artificial y Ciencia de Datos</p>
 
-<p><em>Me gusta transformar necesidades reales en soluciones tecnológicas que las personas puedan utilizar.</em></p>
+<p><em>Ingeniería, tecnología y análisis de datos orientados a resolver desafíos reales.</em></p>
 
 <p>
   <a href="https://github.com/IAproyecto24"><img src="https://img.shields.io/badge/GitHub-IAproyecto24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub IAproyecto24"></a>
@@ -23,91 +23,99 @@
 
 ---
 
-## 💡 Mucho más que escribir código
+## 👤 Perfil profesional
 
-Disfruto encontrar oportunidades de mejora donde conviven personas, procesos y datos. Mi experiencia en ingeniería industrial me permite comprender cómo funciona una operación; mi trabajo con datos y desarrollo de software me permite convertir esa comprensión en **herramientas útiles, medibles y sostenibles**.
+Mi perfil integra la **ingeniería industrial con la ingeniería de datos, el desarrollo de software y la inteligencia artificial**. Esta combinación me permite comprender las necesidades de los procesos empresariales y transformarlas en soluciones tecnológicas orientadas a la productividad, la calidad, la trazabilidad y la toma de decisiones.
 
-Me motiva especialmente ver que una solución deja de ser una idea o un prototipo y comienza a apoyar el trabajo diario: alguien registra información con menos esfuerzo, consulta un indicador a tiempo, reduce tareas manuales o puede tomar una decisión con mejores datos.
+He participado en el diseño y desarrollo de aplicaciones que conectan información, personas y operación: sistemas de captura y monitoreo, automatización de tareas, herramientas de análisis, aplicaciones de escritorio y servicios web.
 
-Mi enfoque reúne **ingeniería de datos, analítica, Machine Learning, automatización, desarrollo web y de escritorio**, con una visión práctica de despliegue, soporte, seguridad y mejora continua.
+Mi formación y experiencia abarcan **analítica de datos, Machine Learning, aprendizaje profundo, visión computacional, integración de sistemas y desarrollo de aplicaciones**, con atención a la operación real de las soluciones.
 
-## 🚀 Soluciones que he construido y problemas que ayudan a resolver
+## 🚀 Soluciones y desarrollos realizados
 
-Estos proyectos representan distintas necesidades reales que he abordado. Algunos forman parte de operaciones internas, por lo que comparto su propósito y los aprendizajes técnicos sin exponer código privado, datos empresariales ni detalles de infraestructura.
+Los siguientes desarrollos muestran la aplicación de mis conocimientos en necesidades concretas de producción, calidad, gestión e integración tecnológica. En los sistemas internos se presenta su finalidad y alcance funcional, sin divulgar código, información empresarial o infraestructura privada.
 
 ### 🏭 Monitoreo de producción en planta
 
-**El reto:** disponer de información de producción oportuna, sin depender exclusivamente de registros manuales o consultas posteriores.
+**Necesidad:** disponer de información de producción oportuna, sin depender exclusivamente de registros manuales o consultas posteriores.
 
-**La solución:** desarrollo de un sistema de captura y visualización de unidades e indicadores de productividad por módulos de confección, con aplicaciones web, integración de datos y equipos Raspberry Pi instalados en planta.
+**Solución desarrollada:** desarrollo de un sistema de captura y visualización de unidades e indicadores de productividad por módulos de confección, con aplicaciones web, integración de datos y equipos Raspberry Pi instalados en planta.
 
-**Lo que demuestra:** capacidad para conectar software, dispositivos, bases de datos y operación industrial; diseñar experiencias sencillas para usuarios de planta y atender aspectos de disponibilidad y sincronización.
+**Competencias aplicadas:** capacidad para conectar software, dispositivos, bases de datos y operación industrial; diseñar experiencias sencillas para usuarios de planta y atender aspectos de disponibilidad y sincronización.
 
 ### 🔍 Auditoría Final de Empaque
 
-**El reto:** registrar revisiones de calidad de forma ordenada, reducir reprocesos de información y consultar los resultados cuando se necesiten.
+**Necesidad:** registrar revisiones de calidad de forma ordenada, reducir reprocesos de información y consultar los resultados cuando se necesiten.
 
-**La solución:** aplicación de escritorio para registrar auditorías, defectos y resultados de revisión; incorpora validaciones para la captura, consultas compartidas y exportación de datos a Excel.
+**Solución desarrollada:** aplicación de escritorio para registrar auditorías, defectos y resultados de revisión; incorpora validaciones para la captura, consultas compartidas y exportación de datos a Excel.
 
-**Lo que demuestra:** desarrollo de aplicaciones orientadas al usuario final, integración con SQL Server, control de calidad de datos y evolución de versiones mediante pruebas. Una versión operativa fue validada en el proceso de trabajo.
+**Competencias aplicadas:** desarrollo de aplicaciones orientadas al usuario final, integración con SQL Server, control de calidad de datos y evolución de versiones mediante pruebas. La aplicación fue objeto de pruebas funcionales y validación de su versión operativa.
 
 ### 📐 Gestión de tablas de medidas — Medidas Kalia
 
-**El reto:** facilitar la carga, consulta y reutilización de tablas de medidas de prendas a partir de archivos de trabajo.
+**Necesidad:** facilitar la carga, consulta y reutilización de tablas de medidas de prendas a partir de archivos de trabajo.
 
-**La solución:** aplicación de escritorio con importación desde Excel, consulta de información y funciones para copiar tablas entre referencias, cuidando la consistencia de códigos y descripciones.
+**Solución desarrollada:** aplicación de escritorio con importación desde Excel, consulta de información y funciones para copiar tablas entre referencias, cuidando la consistencia de códigos y descripciones.
 
-**Lo que demuestra:** automatización de procesos especializados, integración de Excel con bases de datos y atención a reglas funcionales que afectan directamente al uso cotidiano de la aplicación.
+**Competencias aplicadas:** automatización de procesos especializados, integración de Excel con bases de datos y atención a reglas funcionales que afectan directamente al uso cotidiano de la aplicación.
 
 ### 📊 Tableros y reportería operativa
 
-**El reto:** convertir información dispersa en indicadores que puedan comprenderse y utilizarse para seguimiento y análisis.
+**Necesidad:** convertir información dispersa en indicadores que puedan comprenderse y utilizarse para seguimiento y análisis.
 
-**La solución:** construcción y mejora de tableros orientados a producción, eficiencia, cumplimiento y comportamiento operativo, junto con herramientas de consulta y exportación.
+**Solución desarrollada:** construcción y mejora de tableros orientados a producción, eficiencia, cumplimiento y comportamiento operativo, junto con herramientas de consulta y exportación.
 
-**Lo que demuestra:** capacidad para pasar de los datos al indicador y del indicador a una experiencia de consulta útil para diferentes roles.
+**Competencias aplicadas:** capacidad para pasar de los datos al indicador y del indicador a una experiencia de consulta útil para diferentes roles.
 
 ### 🧾 COREQ — Central de Órdenes de Requisición
 
-**El reto:** organizar solicitudes internas que tradicionalmente se gestionan mediante formatos físicos y seguimiento manual.
+**Necesidad:** organizar solicitudes internas que tradicionalmente se gestionan mediante formatos físicos y seguimiento manual.
 
-**La solución:** desarrollo de una aplicación para centralizar requerimientos, registrar solicitudes y facilitar su seguimiento entre áreas.
+**Solución desarrollada:** desarrollo de una aplicación para centralizar requerimientos, registrar solicitudes y facilitar su seguimiento entre áreas.
 
-**Lo que demuestra:** análisis de procesos, digitalización de flujos administrativos y diseño de herramientas de escritorio que buscan disminuir la dependencia del papel.
+**Competencias aplicadas:** análisis de procesos, digitalización de flujos administrativos y diseño de herramientas de escritorio que buscan disminuir la dependencia del papel.
 
 ### ✅ AtalayaQ, K-LIA Auditoría y soluciones de calidad
 
-**El reto:** hacer más accesible, trazable y consistente la información de aseguramiento de calidad y auditoría.
+**Necesidad:** hacer más accesible, trazable y consistente la información de aseguramiento de calidad y auditoría.
 
-**La solución:** desarrollos orientados al registro, la organización, la consulta y el seguimiento de datos de calidad, con interfaces diseñadas para procesos y usuarios concretos.
+**Solución desarrollada:** desarrollos orientados al registro, la organización, la consulta y el seguimiento de datos de calidad, con interfaces diseñadas para procesos y usuarios concretos.
 
-**Lo que demuestra:** capacidad para traducir necesidades funcionales de distintas áreas en sistemas de información, priorizando trazabilidad, usabilidad y mantenimiento.
+**Competencias aplicadas:** capacidad para traducir necesidades funcionales de distintas áreas en sistemas de información, priorizando trazabilidad, usabilidad y mantenimiento.
 
 ### 🏷️ Identificación RFID y trazabilidad
 
-**El reto:** explorar alternativas para identificar elementos y capturar información de forma más ágil en procesos operativos.
+**Necesidad:** explorar alternativas para identificar elementos y capturar información de forma más ágil en procesos operativos.
 
-**La solución:** pruebas y desarrollos locales para leer, interpretar y validar códigos EPC, y estudiar su integración con aplicaciones de seguimiento.
+**Solución desarrollada:** pruebas y desarrollos locales para leer, interpretar y validar códigos EPC, y estudiar su integración con aplicaciones de seguimiento.
 
-**Lo que demuestra:** disposición para trabajar más allá del software convencional, integrar dispositivos físicos y validar soluciones en escenarios reales.
+**Competencias aplicadas:** integración de dispositivos y aplicaciones, interpretación de información capturada y validación técnica en condiciones operativas.
 
-> **Mi aporte no se limita a una sola tecnología:** participo en la comprensión del problema, el diseño de la solución, el desarrollo, las pruebas, la documentación y los ajustes necesarios para utilizarla.
+> Estos proyectos integran análisis de necesidades, desarrollo de software, tratamiento de datos, pruebas y adaptación de soluciones a diferentes entornos operativos.
 
-## 🧠 Proyectos de investigación y desarrollo en evolución
+## 🧠 Inteligencia artificial y ciencia de datos
+
+La formación de maestría y el trabajo académico han incluido **algoritmos de aprendizaje automático, redes neuronales profundas y visión computacional**, además de las técnicas de análisis y modelado de datos utilizadas en proyectos industriales.
+
+He trabajado con **árboles de decisión, métodos de ensamble, algoritmos de boosting y arquitecturas de redes neuronales**, así como con entrenamiento, evaluación, comparación de modelos y aplicaciones de análisis de imágenes. Estas capacidades comprenden diferentes tipos de problemas de clasificación y análisis; no se limitan a un único algoritmo ni exclusivamente a la predicción sobre datos tabulares.
+
+La selección de un modelo depende del problema, los datos disponibles y los resultados de su evaluación. En el proyecto de investigación aplicado a producción, **XGBoost fue priorizado a partir de las métricas obtenidas al comparar alternativas para ese caso particular**, sin que ello represente una preferencia universal ni el alcance total de mi formación.
+
+## 🔬 Investigación y desarrollo
 
 ### 🎓 Sistema inteligente de datos y planeación operativa
 
-Proyecto de maestría enfocado en **integrar datos productivos, estructurar procesos ETL, evaluar modelos predictivos y apoyar decisiones de planeación**. Incluye trabajo con Python, SQL, XGBoost, APIs y componentes de demostración operativa. Su desarrollo se aborda por fases, con criterios de evaluación y trazabilidad.
+Proyecto de maestría orientado a **integrar datos productivos, estructurar procesos ETL, comparar modelos de aprendizaje automático y apoyar decisiones de planeación operativa**. Incluye desarrollo con Python, SQL, APIs y componentes de demostración; en la evaluación específica del caso se seleccionó un modelo XGBoost según los resultados de las métricas analizadas. El proyecto se desarrolla por etapas.
 
 ### 🔊 PAC — Plant Audio Control
 
 Proyecto de ingeniería para programar y reproducir comunicaciones y señales de audio en entornos industriales, contemplando equipos de reproducción locales, continuidad operativa, programación y administración de contenidos.
 
-**Estado:** desarrollo por etapas; no se presenta como una solución terminada ni desplegada.
+**Estado:** proyecto en desarrollo por etapas.
 
-## 🛠️ Mi caja de herramientas
+## 🛠️ Herramientas y tecnologías aplicadas
 
-Las tecnologías son medios para resolver problemas. Estas son algunas de las que he utilizado en proyectos académicos, personales o profesionales.
+Lenguajes, bibliotecas, frameworks y plataformas utilizados en distintos proyectos académicos, profesionales y desarrollos de software.
 
 ### 🐍 Datos, automatización y analítica
 
@@ -120,13 +128,16 @@ Las tecnologías son medios para resolver problemas. Estas son algunas de las qu
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-### 🤖 Machine Learning e inteligencia artificial
+### 🤖 Inteligencia artificial, Machine Learning y visión computacional
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Deep%20Learning-6D28D9?style=for-the-badge" alt="Aprendizaje profundo">
+  <img src="https://img.shields.io/badge/Redes%20neuronales-7C3AED?style=for-the-badge" alt="Redes neuronales">
+  <img src="https://img.shields.io/badge/%C3%81rboles%20de%20decisi%C3%B3n-2563EB?style=for-the-badge" alt="Árboles de decisión">
+  <img src="https://img.shields.io/badge/Visi%C3%B3n%20computacional-0F766E?style=for-the-badge" alt="Visión computacional">
   <img src="https://img.shields.io/badge/CRISP--DM-475569?style=for-the-badge" alt="CRISP-DM">
-  <img src="https://img.shields.io/badge/Modelado%20predictivo-6D28D9?style=for-the-badge" alt="Modelado predictivo">
 </p>
 
 ### 💻 Desarrollo de aplicaciones
@@ -152,7 +163,20 @@ Las tecnologías son medios para resolver problemas. Estas son algunas de las qu
 
 También he trabajado con **PyQt5, SQLAlchemy, pyodbc, Looker Studio y automatización basada en Excel**, según las necesidades de cada solución.
 
-**En exploración para futuros proyectos:** React, Angular, Vue, Svelte, ASP.NET Core, NestJS, Django, PostgreSQL y alternativas web, móviles y multiplataforma. Las evalúo según su pertinencia; **no las presento como experiencia de producción ya adquirida**.
+### 🌐 Frameworks y tecnologías del ecosistema de desarrollo
+
+<p>
+  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+La elección de frameworks, arquitecturas y plataformas corresponde a los requisitos y características de cada solución.
 
 ## 📚 Proyectos académicos que puedes explorar
 
@@ -164,28 +188,15 @@ En estos repositorios públicos se puede conocer parte de mi trabajo con datos y
 | 📱 [**MachineLearning**](https://github.com/IAproyecto24/MachineLearning) | Clasificación de rangos de precios de teléfonos móviles a partir de sus características. |
 | 🌱 [**Laboratorio Dry Bean ML**](https://github.com/IAproyecto24/Laboratorio_drybean_ml) | Laboratorio de clasificación supervisada con prácticas CRISP-DM, TDSP y trabajo incremental. |
 
-## 🧭 Cómo me gusta trabajar
+## 🎯 Proyección profesional
 
-Creo en la combinación de **curiosidad, rigor técnico y comprensión del negocio**. Por eso busco:
+Mi objetivo es aportar a iniciativas donde la **ingeniería, los datos y el software generen resultados concretos**: procesos más eficientes, información confiable, sistemas operativos sostenibles y mejores decisiones.
 
-- Entender el problema y escuchar a quienes realmente utilizarán la solución.
-- Elegir arquitectura y tecnologías según los requisitos, no por moda.
-- Desarrollar por etapas pequeñas, con validación funcional y técnica.
-- Cuidar integridad de datos, seguridad, experiencia de usuario y operación.
-- Documentar decisiones, conservar evidencia y disponer de alternativas de recuperación.
-- Seguir aprendiendo sin introducir cambios innecesarios en sistemas que ya funcionan.
+Estoy interesado en oportunidades profesionales y de colaboración relacionadas con **ingeniería de datos, desarrollo de software, inteligencia artificial, automatización, analítica avanzada y transformación digital**, tanto en entornos industriales como en otros sectores.
 
-He construido una **metodología de ingeniería reutilizable**, con skills privadas versionadas que reúnen prácticas de desarrollo, datos, seguridad, despliegue, selección tecnológica y gobierno de proyectos.
+## 📫 Contacto profesional
 
-## 🌟 Lo que quiero seguir construyendo
-
-Quiero participar en proyectos donde **los datos y el software produzcan cambios concretos**: procesos más ágiles, información confiable, mejores decisiones, aplicaciones que faciliten el trabajo y soluciones que sigan siendo útiles después de su primera entrega.
-
-Me interesa conectar con **equipos, organizaciones y personas** que busquen capacidades en ingeniería de datos, automatización, desarrollo de aplicaciones, analítica e inteligencia artificial aplicada. Me entusiasman tanto los desafíos de operación industrial como las oportunidades de crear nuevos productos y servicios digitales.
-
-## 🤝 ¿Conectamos?
-
-Si tienes un reto que pueda resolverse con datos, automatización o software, me encantará conocerlo.
+Disponible para establecer contacto sobre proyectos, oportunidades profesionales e iniciativas de colaboración técnica.
 
 <p>
   <a href="mailto:urquijo@utp.edu.co"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Escríbeme por correo"></a>
@@ -196,8 +207,8 @@ Si tienes un reto que pueda resolverse con datos, automatización o software, me
 
 ### 🌍 English summary
 
-I'm **Sebastián Urquijo Buitrago**, an Industrial Engineer and Master's student in Artificial Intelligence and Data Science. I design data pipelines, predictive models, APIs, operational dashboards, and desktop/web applications that help turn real business and industrial needs into usable systems.
+I'm **Sebastián Urquijo Buitrago**, an Industrial Engineer and Master's student in Artificial Intelligence and Data Science. My work spans data engineering, software development, machine learning, deep neural networks, computer vision, APIs, operational dashboards, and desktop/web applications for business and industrial processes.
 
-My approach combines **data engineering, software development, practical problem-solving, and evidence-driven engineering**. I'm interested in opportunities where technology can improve processes, quality, traceability, and decision-making.
+My experience connects **engineering, data analytics and applied technology** to operational needs. I welcome professional and collaborative opportunities in software, artificial intelligence, automation and digital transformation.
 
 **[Explore my public projects](https://github.com/IAproyecto24?tab=repositories) · [Get in touch](mailto:urquijo@utp.edu.co)**
